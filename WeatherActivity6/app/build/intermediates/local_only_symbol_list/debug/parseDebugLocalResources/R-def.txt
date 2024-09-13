@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable drawable_hdpi
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable weather1
+id condition
+id forecast_container
+id location
+id main
+id temperature
+id viewPager
+id weather_container
+id weather_icon
+layout activity_weather
+layout fragment_blank
+layout fragment_weather
+layout fragment_weatherand_blank
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.WeatherActivity
+style Theme.WeatherActivity
+xml backup_rules
+xml data_extraction_rules
